@@ -1,7 +1,5 @@
-Com certeza\! Aqui está a tradução para o inglês do arquivo README de Pedro Bibiano:
 
 -----
-
 # 👋 Hi, I'm Pedro Bibiano\!
 
 Welcome to my GitHub profile\!
