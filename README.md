@@ -1,96 +1,59 @@
-# 👋 Olá, eu sou o Pedro Bibiano!
+<div align="center">
+  <h1>👋 Olá, eu sou o Pedro Bibiano! | Hi, I'm Pedro Bibiano!</h1>
+</div>
+
+---
+
+## 🇧🇷 Português
 
 Bem-vindo ao meu perfil no GitHub!
 
-Sou **Pedro Bibiano**, estudante de Ciência da Computação e Matemática, apaixonado por tecnologia e desenvolvimento de software. Estou em constante aprendizado, focado em construir soluções eficientes e adquirir experiência prática.
+Sou **Pedro Bibiano**, estudante de **Ciência da Computação** e **Matemática**, apaixonado por tecnologia e desenvolvimento de software. Busco constantemente construir soluções eficientes e adquirir experiência prática.
 
----
+### 🎓 Formação Acadêmica
+* 💻 **Ciência da Computação:** 3º Semestre.
+* 📐 **Bacharelado em Matemática (UESC):** 1º Semestre.
 
-## 🎓 Sobre Mim
-
-* **Educação:** * Bacharelado em **Ciência da Computação** (3º Semestre).
-    * Licenciatura em **Matemática** na **UESC** (1º Semestre).
-* **Foco:** Desenvolvimento de software e exploração de novas ferramentas.
-
----
-
-## 🛠️ Habilidades e Ferramentas
-
+### 🛠️ Habilidades e Ferramentas
 | Categoria | Detalhes |
 | :--- | :--- |
 | 💻 **Linguagens** | **Java**, **Python**, **SQL** |
-| ⚙️ **Frameworks & Libs** | **Angular**, **Spring** |
-| ☁️ **DevOps & Containers** | **Docker**, **Git** |
+| ⚙️ **Frameworks** | **Angular**, **Spring** |
+| ☁️ **DevOps** | **Docker**, **Git** |
 | 🗣️ **Idiomas** | Inglês (Básico), Português (Nativo) |
 
 ---
 
-## 🌱 O Que Busco
-
-Estou focado em aprimorar minhas habilidades e buscando oportunidades para aplicar meus conhecimentos em projetos desafiadores, especialmente nas áreas de desenvolvimento Web e Backend.
-
----
-
-## 📈 GitHub Stats
-
----
-
-## 📫 Como me Encontrar
-
-Sinta-se à vontade para entrar em contato!
-
-| Meio de Contato | Detalhes |
-| :--- | :--- |
-| **E-mail** | `pedroabibiano@gmail.com` |
-| **Telefone** | `+55 73 99143-9714` |
-
----
-
-<p align="center">
-Obrigado por visitar! Vamos colaborar!
-</p>
-# 👋 Hi, I'm Pedro Bibiano!
+## 🇺🇸 English
 
 Welcome to my GitHub profile!
 
-I am **Pedro Bibiano**, a Computer Science and Mathematics student passionate about technology and software development. I am constantly learning, focused on building efficient solutions and acquiring practical experience.
+I am **Pedro Bibiano**, a **Computer Science** and **Mathematics** student passionate about technology and software development. I am focused on building efficient solutions and acquiring practical experience.
 
----
+### 🎓 Education
+* 💻 **Computer Science:** 3rd Semester.
+* 📐 **B.S. in Mathematics (UESC):** 1st Semester.
 
-## 🎓 About Me
-
-* **Education:** * B.S. in **Computer Science** (3rd Semester).
-    * Degree in **Mathematics** at **UESC** (1st Semester).
-* **Focus:** Software development and exploration of new tools.
-
----
-
-## 🛠️ Skills and Tools
-
+### 🛠️ Skills and Tools
 | Category | Details |
 | :--- | :--- |
 | 💻 **Languages** | **Java**, **Python**, **SQL** |
-| ⚙️ **Frameworks & Libs** | **Angular**, **Spring** |
-| ☁️ **DevOps & Containers** | **Docker**, **Git** |
+| ⚙️ **Frameworks** | **Angular**, **Spring** |
+| ☁️ **DevOps** | **Docker**, **Git** |
 | 🗣️ **Language** | English (Basic), Portuguese (Native) |
 
 ---
 
-## 🌱 What I'm Seeking
-
-I am focused on improving my skills and seeking opportunities to apply my knowledge in challenging projects, especially in the areas of Web and Backend development.
-
----
-
 ## 📈 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark)
+
 ---
 
-## 📫 How to Reach Me
+## 📫 Contato | Reach Me
 
-Feel free to get in touch!
-
-| Contact Method | Details |
+| Método | Detalhes |
 | :--- | :--- |
 | **Email** | `pedroabibiano@gmail.com` |
 | **Phone** | `+55 73 99143-9714` |
@@ -98,5 +61,5 @@ Feel free to get in touch!
 ---
 
 <p align="center">
-Thank you for visiting! Let's collaborate!
+Obrigado por visitar! Vamos colaborar! | Thank you for visiting! Let's collaborate!
 </p>
